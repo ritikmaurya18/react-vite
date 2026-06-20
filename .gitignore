@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Added by Buildr github-import: never commit env values
+.env
+.env.local
+.env.*.local
+
+# Added by projectcode.dev
+environments
+build
+.next
+.vite
